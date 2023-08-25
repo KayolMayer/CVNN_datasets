@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Soares Mayer
+    given-names: Kayol
+    orcid: https://orcid.org/0000-0002-8837-153X
+title: "Deep Phase-Transmittance RBF Neural Network for Beamforming with Multiple Users"
+version: 1.0.0
+doi: 10.1109/LWC.2022.3177162
+date-released: 2023-08-25
