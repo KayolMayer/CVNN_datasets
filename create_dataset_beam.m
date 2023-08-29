@@ -51,7 +51,7 @@
 %  pages = {1498--1502},
 %  }
 
-function [SetIn,SetOut] = create_data_set_beam(modulation,Mmod,f,phi,...
+function [SetIn,SetOut] = create_dataset_beam(modulation,Mmod,f,phi,...
                                 theta,desired,lenData,SINRdB,SNRdBs,SNRdBi)
 
     % Linear SNR of sources
