@@ -11,6 +11,17 @@
 % Created by Kayol Soares Mayer
 % Last updated 2023/08/29
 
+% Cite:
+%@ARTICLE{Cha1995,
+%  author={Inhyok Cha and Kassam, S.A.},
+%  journal={IEEE Journal on Selected Areas in Communications}, 
+%  title={{Channel equalization using adaptive complex radial basis function networks}}, 
+%  year={1995},
+%  volume={13},
+%  number={1},
+%  pages={122--131},
+%}
+
 function [SetIn,SetOut] = create_dataset_equalization(lenData)
     
     % Initialize the input dataset with zeros to speed up the code.
