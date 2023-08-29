@@ -1,3 +1,5 @@
+% Code to create a beamforming dataset for CVNNs
+
 % Inputs modulation: Vector of source and interference modulation formats.
 %                    Accepted values: "QAM", "PSK", and "WGN".
 %        Mmod:       Vector of modulation orders of the modulation vector.
